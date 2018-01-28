@@ -1,0 +1,20 @@
+{
+	"name": "soralis_nem/tipnem4php",
+	"description": "Tipnem Lib for PHP",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "soralis",
+			"email": "soralis.nem@gmail.com"
+		}
+	],
+	"require": {
+		"textalk/websocket": "^1.2"
+	},
+	"autoload": {
+		"psr-4": {
+			"soralis_nem\\tipnem4php\\": "src"
+		}
+	}
+}
