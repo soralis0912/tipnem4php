@@ -13,11 +13,10 @@
 		"textalk/websocket": "^1.2"
 	},
 	"autoload": {
-		"autoload": {
-			"psr-4": {
-				"soralis_nem\\tipnem4php\\": "src/"
-			}
-
+		"psr-4": {
+			"soralis_nem\\tipnem4php\\": "src/"
 		}
+
+		
 	}
 }
